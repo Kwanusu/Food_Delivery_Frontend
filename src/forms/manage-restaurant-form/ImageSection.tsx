@@ -15,7 +15,7 @@ const ImageSection = () => {
             <div className="text-2xl font-bold">
                 <FormDescription>
                    Add an image that will be displayed on your restuarant listing in the search results'
-                   Addimg an image will overwrite the existing one. 
+                   Adding an image will overwrite the existing one. 
                 </FormDescription>
             </div>
             <div className="flex flex-col gap-8 md:w-[50%]">
