@@ -99,7 +99,7 @@ const UserProfileForm = ({ onSave, isLoading, currentUser , title = "User Profil
         {isLoading ? (
           <LoadingButton />
         ) : (
-        <Button type="submit" className="bg-orange-500">
+        <Button type="submit" className="bg-orange-500 flex-1">
           {buttonText}
         </Button> 
       )}
