@@ -13,7 +13,7 @@ const SORT_OPTIONS = [
       value: "bestMatch"  
     },
     {
-      label: "Deliveryy Price",
+      label: "Delivery Price",
       value: "deliveryPrice"  
     },
     {
